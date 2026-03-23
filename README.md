@@ -52,6 +52,12 @@ Solução proposta: oferecer uma experiência conversacional com recomendações
 🎯 Resultado Final
 Acesse o protótipo funcional no Lovable:
 https://conversa-fin-amiga.lovable.app
+<img width="612" height="548" alt="lovable (6)" src="https://github.com/user-attachments/assets/a5ab7617-7c4b-4049-8e88-ff1ff80da875" />
+<img width="610" height="546" alt="lovable (5)" src="https://github.com/user-attachments/assets/bfbddaec-11ec-4eb6-b186-9e6621e5718b" />
+<img width="592" height="549" alt="lovable (4)" src="https://github.com/user-attachments/assets/d830eeeb-81a8-4935-9b1d-ee7dfc415a6b" />
+<img width="588" height="500" alt="lovable (3)" src="https://github.com/user-attachments/assets/de540f06-ce40-499f-ac04-a96cb4253c54" />
+<img width="583" height="539" alt="lovable (2)" src="https://github.com/user-attachments/assets/640a19b0-99a5-4e01-ad0b-33a2d68ba991" />
+<img width="676" height="527" alt="lovable (1)" src="https://github.com/user-attachments/assets/f4353138-be96-464f-adfc-3e5b11cabc36" />
 
 
 🔍 Funcionalidades do App de Organização Financeira
